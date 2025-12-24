@@ -1,0 +1,4 @@
+frmSEDEXAtualizarBase = 156, 156, 1278, 798, C, 130, 130, 1252, 772, C
+frmSEDEXFuncsMalotes = 52, 52, 1174, 694, , 26, 26, 1148, 668, C
+clsImportadorBasesCorreio = 78, 78, 1200, 720, C
+clsDataAccessLayer = 104, 104, 1226, 746, Z

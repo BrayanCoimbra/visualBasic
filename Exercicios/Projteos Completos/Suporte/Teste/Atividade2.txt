@@ -1,4 +1,4 @@
-Depois de liberado a planilha Controle_Malotes.xlsx foi visto que precisa ajustar alguns dados SOMENTE no banco dedos, que estão incorretos.
+Depois de liberado a planilha Controle_Malotes.xlsx foi visto que precisa ajustar alguns dados SOMENTE no banco de dados, que estão incorretos.
 
 1 - No cadastro de funcionários a descrição do nome existem caracteres especiais, e os mesmos precisam ser removidos. deixando os nomes sem estes caracteres especiais
 
